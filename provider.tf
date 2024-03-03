@@ -1,5 +1,6 @@
+# A configuration file that determines who its provider is
 provider "aws"{
- access_key = "AKIAXJPPPJTJMC5S3ZEZ"
- secret_key = "SIQWICLbOnh/y55rB5tS5gebJS/xbZx1Pl2p5qEb"
- region = "us-east-1"
+ access_key = your_access_key
+ secret_key = your_secret_key 
+ region = the_region_you_work_on
 }
